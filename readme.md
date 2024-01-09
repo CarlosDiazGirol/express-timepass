@@ -41,14 +41,16 @@ En esta ruta habrá lo siguiente:
 Un texto dando la bienvenida y la ruta donde estamos
 
 Adjunto unas imagenes para poder entenderlo mejor:
+* index.js
 
-* Index
 ![index.js](./img/index.png))
 
-* Dentro de endrpoute
+* Dentro de endrpoute.js
+
 ![endroute.js](./img/endroute.png)
 
 * Error de horario
+
 ![error](./img/error.png)
 
 * WARNING!: Aunque pongan las 20:00 es solo un ejemplo. Tú debes hacerlo como dice el ejercicio. Prueba diferentes horas para ver que funciona correctamente
